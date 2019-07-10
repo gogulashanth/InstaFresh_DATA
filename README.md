@@ -10,5 +10,6 @@ Instructions:
 files of nutrients and product data
 3. Then, if needed, you can combine the nutrients and product data together to create a single json file by running
 the usdaJsonProductNutrCombiner_BFPD.ipynb and usdaJsonProductNutrCombiner_SR.ipynb notebooks.
+4. There is also a script called databaseUpdater. This is a node script that can help add this data to a firebase database.
 
 Check out the images folder for the data structure of the exported json files
