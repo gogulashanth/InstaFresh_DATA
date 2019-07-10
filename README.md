@@ -1,4 +1,4 @@
-# InstaFresh_DATA
+# USDA Database Toolkit
 
 This notebook helps to convert USDA database files into a JSON format. The database can be downloaded from: https://ndb.nal.usda.gov/ndb/
 
