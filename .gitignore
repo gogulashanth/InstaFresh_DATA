@@ -1,0 +1,14 @@
+## firebase admin sdk
+#
+
+/Scripts/databaseUpdater/instafresh-92127-firebase-adminsdk-16qq7-8733768a70.json
+
+## Data
+#
+
+USDA_data/BFPD/
+USDA_data/LEGACY/
+
+JSON_data/
+
+Scripts/databaseUpdater/node_modules
