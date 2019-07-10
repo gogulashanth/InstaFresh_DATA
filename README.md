@@ -11,6 +11,4 @@ files of nutrients and product data
 3. Then, if needed, you can combine the nutrients and product data together to create a single json file by running
 the usdaJsonProductNutrCombiner_BFPD.ipynb and usdaJsonProductNutrCombiner_SR.ipynb notebooks.
 
-The illustrations below show the structure of the data as its converted.
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Check out the images folder for the data structure of the exported json files
